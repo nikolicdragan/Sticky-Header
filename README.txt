@@ -7,13 +7,13 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-For support requests please use our dedicated support forums at - http://support.thematosoup.com
-
 Sticky Header by ThematoSoup allows you to add sticky header to any WordPress theme.
 
 == Description ==
 
-Sticky Header by ThematoSoup allows you to add sticky header to any WordPress theme.
+For support requests please use our dedicated support forums at - http://support.thematosoup.com
+
+Sticky Header by ThematoSoup makes the navigation in your WordPress theme visible at all times. It's a great feature from a usability standpoint allowing your visitors to browse easily and digest more of your content.
 
 == Installation ==
 
